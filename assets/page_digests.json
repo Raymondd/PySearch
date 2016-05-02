@@ -1,0 +1,66 @@
+{
+    "http://lyle.smu.edu/~fmoore/index.htm": {
+        "digest": "\u00a0 \u00a0\u00a0 spring 2016 freeman l. moore, phd email: fmoore@lyle.smu.edu \u00a0\u00a0\u00a0 . \u00a0 fall 2015 cse 5330/7330 keep looking at the course calendar in blackboard for the latest information and course notes. spring 2015 - tuesday 6:30 - 9:20 - caruth 161 cse 5337/7337 syllabus \u00a0 the contents of this web site are the sole responsibility of dr. freeman moore and do not necessarily represent the opinions or policies of southern methodist university. the administrator of this site is dr. freeman moore who may be contacted at fmoore@lyle.smu.edu .", 
+        "term_number": 39
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": {
+        "digest": "#include #include #include int main(int argc, char *argv[]){ int letter[26]; file *fin; int i; char onechar; for ( i = 0; i", 
+        "term_number": 10
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": {
+        "digest": "#include #include #include int main(int argc, char *argv[]){ int letter[26]; file *fin; int i; char onechar; for ( i = 0; i", 
+        "term_number": 10
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/excel-examples.html": {
+        "digest": "example one example two demonstration files used tuesday march 15", 
+        "term_number": 5
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/k-means.htm": {
+        "digest": "k means example: consider 4 documents d1: { 1, 0, 1, 0} d2: { 1, 1, 1, 0} d3: { 0, 1, 1, 1} d4: {1, 1, 1, 1} document score = sum of document vector; d1 = 2, d2 = 3, d3 = 3, d4 = 4 apply k means algorithm with k = 2, pick the seeds as d1 and d4 cluster 1 = d1, d2 cluster 2 = d4, d3 (note that d2 and d3 could be assigned to either cluster) recompute centroid c1 = 2.5, c2 = 3.5 repeat algorithm, cluster 1 = d1, d3, cluster 2 = d4, d2 recompute centroid c1 = 2.5, c2 = 3.5 but the makeup of the clusters changed, so repeat, repeat, repeat. \u00a0", 
+        "term_number": 19
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": {
+        "digest": "levenshtein distance calculator string 1: string 2: distance = for example: fast to cats = 3 cats to dogs = 3", 
+        "term_number": 8
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": {
+        "digest": "mockingbird part 1 to kill a mockingbird is primarily a novel about growing up under extraordinary circumstances in the 1930s in the southern united states. the story covers a span of three years, during which the main characters undergo significant changes. scout finch lives with her brother jem and their father atticus in the fictitious town of maycomb, alabama. maycomb is a small, close-knit town, and every family has its social station depending on where they live, who their parents are, and how long their ancestors have lived in maycomb. a widower, atticus raises his children by himself, with the help of kindly neighbors and a black housekeeper named calpurnia. scout and jem almost instinctively understand the complexities and machinations of their neighborhood and town.", 
+        "term_number": 59
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": {
+        "digest": "mockingbird part 2 the only neighbor who puzzles them is the mysterious arthur radley, nicknamed boo, who never comes outside. when dill, another neighbor's nephew, starts spending summers in maycomb, the three children begin an obsessive \u0097 and sometimes perilous \u0097 quest to lure boo outside. scout is a tomboy who prefers the company of boys and generally solves her differences with her fists. she tries to make sense of a world that demands that she act like a lady, a brother who criticizes her for acting like a girl, and a father who accepts her just as she is. scout hates school, gaining her most valuable education on her own street and from her father. not quite midway through the story, scout and jem discover that their father is going to represent a black man named tom robinson, who is accused of raping and beating a white woman.", 
+        "term_number": 64
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": {
+        "digest": "mockingbird part 3 suddenly, scout and jem have to tolerate a barrage of racial slurs and insults because of atticus' role in the trial. during this time, scout has a very difficult time restraining from physically fighting with other children, a tendency that gets her in trouble with her aunt alexandra and uncle jack. even jem, the older and more levelheaded of the two, loses his temper a time or two. after responding to a neighbor's (mrs. dubose) verbal attack by destroying her plants, jem is sentenced to read to her every day after school for one month. ultimately, scout and jem learn a powerful lesson about bravery from this woman. as the trial draws nearer, aunt alexandra comes to live with them under the guise of providing a feminine influence for scout.", 
+        "term_number": 59
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": {
+        "digest": "javascript porter stemmer online find out more about the porter stemming algorithm at the official site . example:do you really think it is weakness that yields to temptation? i tell you that there are terrible temptations which it requires strength, strength and courage to yield to ~ oscar wilde stem the above content overlay overlayed output goes here! stemmed stemmed output alone goes here! common topics taught for document classification include stop words inverse document frequency free software relating to this field: lucene carrot2 reference:demo site and reference js implementation http://9ol.es/porter_js_demo.html . function stem(){ var wordlist, ix, word, stem, overlap = [], stemmed = [], test = document.getelementbyid('test').value; // dump non-words test = test.replace(/[^\\w]/g, ' '); // dump multiple white-space test = test.replace(/\\s+/g, ' '); // split wordlist = test.split(' '); for(ix in wordlist) { stem = stemmer(wordlist[ix]); overlap.push(wordlist[ix].replace(stem, stem + '<em>') + '</em>'); stemmed.push(stem); } document.getelementbyid('overlap').innerhtml = overlap.join(' '); document.getelementbyid('stemmed').innerhtml = stemmed.join(' ');}var _gaq = _gaq || [];_gaq.push(['_setaccount', 'ua-8759665-4']);_gaq.push(['_trackpageview']);(function() {var ga = document.createelement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getelementsbytagname('script')[0]; s.parentnode.insertbefore(ga, s);})();", 
+        "term_number": 88
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": {
+        "digest": "cse 5337/7337 spring 2016 project assignments cse 5337 nicole gatmaitan and jason stumbaugh cse 7337 joe st. angelo and will spurgin cse 5337 steven bock and nick roberts cse 7337 xukai wang and ruixuan zhang cse 7337 pooja mehta and heena moledina cse 7337 cheng cheng and haotian yang", 
+        "term_number": 28
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": {
+        "digest": "example links, february 2016 ../ ../index.htm http://lyle.smu.edu/~fmoore/ http://lyle.smu.edu/~fmoore http://lyle.smu.edu/~fmoore/index.htm how many distinct urls are here?", 
+        "term_number": 10
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": {
+        "digest": "web crawler open source crawlers in java crawler4j java regular expressions java: html parser java: working with urls about /robots.txt", 
+        "term_number": 13
+    }, 
+    "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": {
+        "digest": "morphing: transform a given word into another by changing only one letter at a time, forming a genuine new word (not a proper name) with each letter change cold bull flour __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ warm bear __ __ __ __ __ \u00a0 \u00a0 __ __ __ __ __ \u00a0 \u00a0 bread", 
+        "term_number": 18
+    }, 
+    "http://lyle.smu.edu/~fmoore/schedule.htm": {
+        "digest": "2016 preliminary schedule keep referring to this page for latest schedule. date topics . activity . . . . jan 19 course overview, introduction to ir (chpt 1) hmwk 1 assigned, brief survey , dictionary alphabet distribution , algorithm 1-7 example jan 26 boolean retrieval, terms, posting lists (chpt 2) hmwk 2 assigned, porter stemmer example feb 2 the web and crawling (chpt 19, 20) hmwk 1 due, web crawler links , jaccard example feb 9 building a web crawler, wildcards and spelling errors (chpt 3) hmwk 2 due, project 1 assigned, project teams , levenshtein distance , word morphing puzzle , soundex online feb 16 indexing (chpt 4), index compression (chpt 5) hmwk 3 assigned, url example , example of bad link feb 23 scoring (vector space model) (chpt 6) exam review mar 1 catch up exam i, hmwk 3 due mar 8 no class: spring break \u00a0 mar 15 scoring (complete search model) (chpt 7) project 1 due, hmwk 4 assigned, excel examples mar 22 evaluation in information retrieval (chpt 8) roadmap mar 29 relevance feedback and query expansion (chpt 9) hmwk 4 due, project 2 assigned, stop words for project. apr 5 text classification (chpt 13) hmwk 5 assigned, naive bayes classifier , ms outlook spam apr 12 document clustering (chpt 16, 17) kmeans example , hierarchical demo apr 19 link analysis (chpt 21) hmwk 5 due, in-class lab time apr 26 vector space classification (chpt 14) may 3 no class: reading day project 2 due may 10 exam ii, tuesday may 10, 2016 per university schedule \u00a0 exam ii", 
+        "term_number": 97
+    }, 
+    "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": {
+        "digest": "cse 5337/7337 spring 2016 \u00a0 1. \u00a0i am select class level undergraduate graduate-on-campus graduate-off-campus 2.\u00a0 name a search engine other than google: 3.\u00a0 my normal operating system is: \u00a0 windows apple unix-variant other \u00a0 4.\u00a0 i consider myself competent at understanding html. \u00a0 yes no \u00a0 5.\u00a0 do you anticipate missing any class sessions? \u00a0 yes no \u00a0 6.\u00a0 what is your preferred programming language? \u00a0 7.\u00a0 how much time per week have you budgeted for this class? less than 5 hours 5-10 hours 10-15 hours more than 15 whatever it takes", 
+        "term_number": 36
+    }
+}

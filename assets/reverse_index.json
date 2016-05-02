@@ -1,0 +1,1467 @@
+{
+    "abov": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "accept": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "accus": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "activ": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "administr": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "alabama": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "alexandra": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 2
+    }, 
+    "algorithm": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "alon": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "alphabet": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "analysi": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "ancestor": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "angelo": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "ani": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "anoth": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "anticip": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "appl": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "appli": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1
+    }, 
+    "apr": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 4
+    }, 
+    "ar": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1
+    }, 
+    "argc": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 1
+    }, 
+    "argv": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 1
+    }, 
+    "arthur": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "assign": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 7
+    }, 
+    "attack": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "atticu": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "aunt": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 2
+    }, 
+    "bad": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "barrag": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "bay": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "bear": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "beat": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "becaus": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "black": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "blackboard": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "bock": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "boi": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "boo": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 2
+    }, 
+    "boolean": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "braveri": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "bread": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "break": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "brother": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "budget": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "build": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "bull": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "calcul": {
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 1
+    }, 
+    "calendar": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "calpurnia": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "carrot": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "caruth": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "cat": {
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 2
+    }, 
+    "catch": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "centroid": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 2
+    }, 
+    "chang": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 2
+    }, 
+    "char": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 2
+    }, 
+    "charact": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "cheng": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 2
+    }, 
+    "children": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "chpt": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 14
+    }, 
+    "circumst": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "class": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 3
+    }, 
+    "classif": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "classifi": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "closeknit": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "cluster": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 6, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "cold": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "common": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "compani": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "compet": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "complet": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "complex": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "compress": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "consid": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "contact": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "content": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "courag": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "cours": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "cover": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "crawl": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "crawler": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "crawlerj": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "critic": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "cse": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 7, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "dai": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "demand": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "demo": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "demonstr": {
+        "http://lyle.smu.edu/~fmoore/misc/excel-examples.html": 1
+    }, 
+    "depend": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "destroi": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "dictionari": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "differ": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "difficult": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "dill": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "discov": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "distanc": {
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 2, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "distinct": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1
+    }, 
+    "distribut": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "document": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "documentcreateelementscript": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "documentgetelementbyidoverlapinnerhtml": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "documentgetelementbyidstemmedinnerhtml": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "documentgetelementbyidtestvalu": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "documentgetelementsbytagnamescript": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "documentlocationprotocol": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "dog": {
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 1
+    }, 
+    "dr": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 2
+    }, 
+    "draw": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "dubos": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "dump": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "dure": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "educ": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "em": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "email": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "engin": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "error": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "evalu": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "everi": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "exam": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 4
+    }, 
+    "exampl": {
+        "http://lyle.smu.edu/~fmoore/misc/excel-examples.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 7
+    }, 
+    "exampledo": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "excel": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "expans": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "express": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "extraordinari": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "fall": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "famili": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "fast": {
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 1
+    }, 
+    "father": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 3
+    }, 
+    "feb": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 4
+    }, 
+    "februari": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1
+    }, 
+    "feedback": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "feminin": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "fictiti": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "field": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "fight": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "file": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/excel-examples.html": 1
+    }, 
+    "fin": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 1
+    }, 
+    "finch": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "find": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "fist": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "flour": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "fmoorelylesmuedu": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 2
+    }, 
+    "forix": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "form": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "free": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "freeman": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 3
+    }, 
+    "frequenc": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "function": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "ga": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "gaasync": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "gain": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "gaq": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "gaqpushsetaccount": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "gatmaitan": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "gatyp": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "gener": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "genuin": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "girl": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "goe": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "googl": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "googleanalyticscomgajsvar": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "graduateoffcampu": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "graduateoncampu": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "grow": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "guis": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "ha": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "haotian": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "hate": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "heena": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "help": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "hierarch": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "hmwk": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 10
+    }, 
+    "hour": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 3
+    }, 
+    "housekeep": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "html": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "http": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "httplylesmuedufmoor": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 2
+    }, 
+    "httplylesmuedufmooreindexhtm": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1
+    }, 
+    "httpolesporterjsdemohtml": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "httpsssl": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "httpwww": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "ii": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "implement": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "inclass": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "includ": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "indexhtm": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1
+    }, 
+    "influenc": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "inform": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "instinct": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "insult": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "int": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 3
+    }, 
+    "introduct": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "invers": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "ir": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "ix": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "jaccard": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "jack": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "jan": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "jason": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "java": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 4
+    }, 
+    "javascript": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "jem": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 4
+    }, 
+    "joe": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "js": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "keep": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "kill": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "kindli": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "kmean": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "lab": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "ladi": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "languag": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "latest": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "learn": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "lesson": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "letter": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 2
+    }, 
+    "level": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "levelhead": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "levenshtein": {
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "link": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 3
+    }, 
+    "list": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "live": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "long": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "lose": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "lucen": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "lure": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "machin": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "mai": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 3
+    }, 
+    "main": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "mainint": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 1
+    }, 
+    "makeup": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1
+    }, 
+    "man": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "mani": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1
+    }, 
+    "mar": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 5
+    }, 
+    "march": {
+        "http://lyle.smu.edu/~fmoore/misc/excel-examples.html": 1
+    }, 
+    "maycomb": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "mehta": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "methodist": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "midwai": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "mockingbird": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "model": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "moledina": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "month": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "moor": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 3
+    }, 
+    "morph": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "ms": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "multipl": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "mysteri": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "naiv": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "nearer": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "necessarili": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "neighbor": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "neighborhood": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "nephew": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "nick": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "nicknam": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "nicol": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "nonword": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "normal": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "note": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1
+    }, 
+    "novel": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "obsess": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "offici": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "older": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "onechar": {
+        "http://lyle.smu.edu/~fmoore/misc/count_letters.txt": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/count_letters_duplicate.txt": 1
+    }, 
+    "onli": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "onlin": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "open": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "oper": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "opinion": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "oscar": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "outlook": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "output": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "outsid": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 2
+    }, 
+    "overlai": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "overlap": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "overlapjoin": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "overlappushwordlistixreplacestem": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "overview": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "parent": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "parser": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "peril": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "phd": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "physic": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "pick": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1
+    }, 
+    "plant": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "polici": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "pooja": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "porter": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "post": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "power": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "prefer": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "preliminari": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "primarili": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "program": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "project": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 6
+    }, 
+    "proper": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "provid": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "puzzl": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "queri": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "quest": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "quit": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "racial": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "radlei": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "rais": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "rape": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "read": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "realli": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "recomput": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 2
+    }, 
+    "refer": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "referencedemo": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "regular": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "relat": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "relev": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "repeat": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 4
+    }, 
+    "repres": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "requir": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "respond": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "respons": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "restrain": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "retriev": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "review": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "roadmap": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "robert": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "robinson": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "robotstxt": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "role": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "ruixuan": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "schedul": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 3
+    }, 
+    "school": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "score": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "scout": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 4
+    }, 
+    "search": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "seed": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1
+    }, 
+    "select": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "sens": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "sentenc": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "session": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "signific": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "site": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "slur": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "small": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "social": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "softwar": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "sole": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "solv": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "sometim": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "soundex": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "sourc": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "southern": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "space": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "spam": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "span": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "sparentnodeinsertbeforega": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "spell": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "spend": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "split": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "spring": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "spurgin": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "st": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "start": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "state": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "station": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "stem": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 9
+    }, 
+    "stemmedjoin": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "stemmedpushstem": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "stemmer": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "stemmerwordlistix": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "steven": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "stori": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "street": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "strength": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "string": {
+        "http://lyle.smu.edu/~fmoore/misc/levenshtein.html": 2
+    }, 
+    "stumbaugh": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "suddenli": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "sum": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1
+    }, 
+    "summer": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "survei": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "syllabu": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "system": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "taught": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "team": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "temper": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "temptat": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "tendenc": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "term": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "terribl": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "test": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 3
+    }, 
+    "testreplacesg": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "testreplacewg": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "testsplit": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "text": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "textjavascript": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "thei": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "thi": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "three": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "time": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "toler": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "tom": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "tomboi": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "topic": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "town": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 3
+    }, 
+    "transform": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "tri": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "trial": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 2
+    }, 
+    "troubl": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "truegasrc": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "tuesdai": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/excel-examples.html": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "uagaqpushtrackpageviewfunct": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "ultim": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "uncl": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "undergo": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "undergradu": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "understand": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "unit": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "univers": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "unixvari": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "url": {
+        "http://lyle.smu.edu/~fmoore/misc/urlexample1.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "valuabl": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "var": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 3
+    }, 
+    "vector": {
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "verbal": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "veri": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "wang": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "warm": {
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 1
+    }, 
+    "weak": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "web": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 3
+    }, 
+    "week": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "whatev": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "white": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1
+    }, 
+    "whitespac": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "widow": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "wild": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 1
+    }, 
+    "wildcard": {
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 1
+    }, 
+    "will": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "window": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "woman": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird3.html": 1
+    }, 
+    "word": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2, 
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 2, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2
+    }, 
+    "wordlist": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 3
+    }, 
+    "work": {
+        "http://lyle.smu.edu/~fmoore/misc/webcrawler.htm": 1
+    }, 
+    "xukai": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "yang": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "ye": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 2
+    }, 
+    "year": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird1.html": 1
+    }, 
+    "yield": {
+        "http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html": 2
+    }, 
+    "zhang": {
+        "http://lyle.smu.edu/~fmoore/misc/projectteams.htm": 1
+    }, 
+    "\u0097": {
+        "http://lyle.smu.edu/~fmoore/misc/mockingbird2.html": 2
+    }, 
+    "\u00a0": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 3, 
+        "http://lyle.smu.edu/~fmoore/misc/k-means.htm": 1, 
+        "http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html": 4, 
+        "http://lyle.smu.edu/~fmoore/schedule.htm": 2, 
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 14
+    }, 
+    "\u00a0i": {
+        "http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html": 1
+    }, 
+    "\u00a0\u00a0": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }, 
+    "\u00a0\u00a0\u00a0": {
+        "http://lyle.smu.edu/~fmoore/index.htm": 1
+    }
+}
